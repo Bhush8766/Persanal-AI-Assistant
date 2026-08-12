@@ -16,7 +16,7 @@ import { CgMenuRight } from "react-icons/cg";
 import { RxCross1 } from "react-icons/rx";      
   
 function Home() {
-  const {
+  const { 
     userData,
     serverUrl,
     setUserData,
